@@ -1,13 +1,13 @@
 
 Included are two classes you might find useful when integrating Mixpanel into your Cappuccino project.
 
-## Adding to your project
+### Adding to your project
 
     git submodule add git://github.com/fpotter/mixpanel-cappuccino.git Frameworks/Mixpanel
 
 # MixpanelAPI.j
 
-This is a light wrapper on top of Mixpanel's regular Javascript API to make it more Cocoa-like.
+This is a light wrapper on top of Mixpanel's regular Javascript API to make it more Cocoa-like.  It also handles loading the Mixpanel Javascript API for you.
 
 ## Usage
 
