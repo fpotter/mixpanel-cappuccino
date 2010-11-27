@@ -1,4 +1,3 @@
-
 Included are two classes you might find useful when integrating Mixpanel into your Cappuccino project.
 
 ### Adding to your project
@@ -27,11 +26,9 @@ And, log events...
                                                                        "some-value",
                                                                        "some-key"]];
 
-You don't have to manually import Mixpanel's Javascript file - it will handle that for you.
-
 # MixpanelChart.j
 
-MixpanelChart makes embedding charts using Mixpanel's new (platform)[http://mixpanel.com/api/docs/guides/platform] much easier inside of Cappuccino.  It encapsulates the chart inside of a regular CPView and provides indicators for loading and no data conditions.  It also handles loading the required Javascript files.
+MixpanelChart makes embedding charts using Mixpanel's new [platform](http://mixpanel.com/api/docs/guides/platform) much easier inside of Cappuccino.  It encapsulates the chart inside of a regular CPView and provides indicators for loading and no data conditions.  It also handles loading the required Javascript files.
 
 ## Usage
 
