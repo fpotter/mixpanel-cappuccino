@@ -6,7 +6,7 @@ Included are two classes you might find useful when integrating Mixpanel into yo
 
 # MixpanelAPI.j
 
-This is a light wrapper on top of Mixpanel's regular Javascript API to make it more Cocoa-like.  It also handles loading the Mixpanel Javascript API for you.
+This is a light wrapper on top of Mixpanel's regular Javascript API to make it more Cocoa-like.  It also handles loading the Mixpanel Javascript API for you.  That's about it.
 
 ## Usage
 
